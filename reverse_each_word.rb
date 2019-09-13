@@ -5,4 +5,5 @@ while words[i]
   strx = strx + words[i].reverse
   i=i+1
 end
+strx
 end
