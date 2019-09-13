@@ -6,5 +6,5 @@ while words[i] do
   strx = strx + words[i].reverse + " "
   i=i+1
 end
-strx - " "
+strx.pop
 end
