@@ -3,7 +3,7 @@ words = str.split(/\ /)
 i=0
 strx = ""
 while words[i] do
-  strx = strx + words[i].reverse
+  strx = strx + words[i].reverse + " "
   i=i+1
 end
 strx
