@@ -9,5 +9,5 @@ while words[i] do
   end
   i=i+1
 end
-strx
+strx.collect
 end
